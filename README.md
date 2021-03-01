@@ -1,5 +1,3 @@
-# tue-ictlab.github.io
-
 Welcome to the GitHub page of the ICTLab.
 
 Please see https://github.com/TUe-ICTLab for all available repositories
