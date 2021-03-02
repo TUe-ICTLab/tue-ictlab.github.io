@@ -1,6 +1,10 @@
 **Welcome to the GitHub page of the Information and Communication Theory Lab**
 
-List of currently available repositories:
+For more information about our group, check the following websites:
+- https://www.sps.tue.nl/ictlab/
+- https://www.tue.nl/ictlab/
+
+List of available GitHub repositories:
 
 {% for repository in site.github.public_repositories %}
 {% unless repository.name == "tue-ictlab.github.io" %}
