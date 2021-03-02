@@ -15,12 +15,8 @@ section {
   width:800px;
 }
 
-@media print, screen and (max-width: 960px)
-header, section, footer {
-    width: auto;
-}
-
-@media print, screen and (max-width: 960px)
-header, section, footer {
-    width: auto;
+@media print, screen and (max-width: 960px) {
+  header, section, footer {
+      width: auto;
+  }
 }
