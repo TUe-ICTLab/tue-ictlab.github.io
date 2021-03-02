@@ -1,1 +1,4 @@
+User-agent: *
+Allow: /
+
 Sitemap: https://tue-ictlab.github.io/sitemap.xml
