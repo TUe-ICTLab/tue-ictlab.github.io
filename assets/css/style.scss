@@ -3,6 +3,10 @@
 
 @import "{{ site.theme }}";
 
+.wrapper {
+  width:none;
+}
+
 header {
   width:300px;
 }
