@@ -1,6 +1,9 @@
 title: TUe ICTLab
 logo: /ICTLab_Logo.png
-description: Information and Communication Theory Lab. We are an academic research lab in the Signal Processing Systems (SPS) group at Eindhoven University of Technology (TU/e). Our mission is to study information and communication theory in a broad sense. We use GitHub to provide methods to reproduce certain parts of our published work. 
+description: |
+  Information and Communication Theory Lab.
+  We are an academic research lab in the Signal Processing Systems (SPS) group at Eindhoven University of Technology (TU/e). Our mission is to study information and communication theory in a broad sense.
+  We use GitHub to provide methods to reproduce certain parts of our published work. 
 show_downloads: false
 google_analytics: G-JZXLYKCN88
 theme: jekyll-theme-minimal
